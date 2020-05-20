@@ -26,4 +26,3 @@ Yuxuan Zhang
 
 Russell Seligmann
 
-Yuxi Wang
