@@ -18,11 +18,10 @@ Use this command to run on localhost:8000
 gunicorn wsgi:app
 ```
 
+## Demo
+Link: https://www.youtube.com/watch?v=g-S2ZGnGw04
+
 ## Group Members
 
-Eric Cao
-
-Yuxuan Zhang
-
-Russell Seligmann
+Eric Cao, Yuxuan Zhang, Russell Seligmann
 
